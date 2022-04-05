@@ -4,6 +4,8 @@ from tkinter.ttk import *
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
+#ShortCut v1.0
+
 game_txt = "D:\\Visual_Studio_Code_Project\\shortcut\\game.txt"
 web_txt = "D:\\Visual_Studio_Code_Project\\shortcut\\web.txt"
 driver_loction = "D:\\Visual_Studio_Code_Project\\shortcut\\chromedriver.exe"
